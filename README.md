@@ -1,4 +1,4 @@
-# first_web
+# Flutter Web App
 
 A new Flutter project.
 
